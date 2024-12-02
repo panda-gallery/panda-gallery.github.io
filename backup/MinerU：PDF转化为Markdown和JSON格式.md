@@ -15,4 +15,4 @@
 - 视频介绍：https://www.bilibili.com/video/BV1eqzBYzEd9
 
 ### 相似工具
-- pdf24 Tools：&emsp;&emsp;https://tools.pdf24.org/zh/
+- PDF24 Tools：&emsp;&emsp;https://tools.pdf24.org/zh/
