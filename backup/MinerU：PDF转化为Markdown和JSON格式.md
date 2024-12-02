@@ -5,6 +5,7 @@
 
 ### 项目亮点
 &emsp;&emsp;由AI模型组成高质量数据提取工具，内容提取依次涉及：布局检测（LayoutLMv3_ft）、公式检测（YOLOv8_ft）、公式识别（UniMERNet）、ORC（PaddleOCR）和表格识别（RapidTable）。
+
 ### 项目使用
 - 支持在线使用：存在图片网络链接、表格未识别等问题。
 - 支持本地部署：Python项目
@@ -15,4 +16,4 @@
 - 视频介绍：https://www.bilibili.com/video/BV1eqzBYzEd9
 
 ### 相似工具
-- PDF24 Tools：&emsp;&emsp;https://tools.pdf24.org/zh/
+- PDF24 Tools：https://tools.pdf24.org/zh
